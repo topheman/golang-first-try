@@ -1,9 +1,12 @@
 golang-first-try
 ================
 
-A very simple experiment of golang, following step by step https://www.youtube.com/watch?v=2KmHtgtEZ1s
+Simple scripts following tutorial or test such as:
 
-## Step 1 - Install
+* https://www.youtube.com/watch?v=2KmHtgtEZ1s
+* https://www.codingame.com
+
+## Install
 
 ```shell
 > ~/go/src/github.com/
@@ -14,5 +17,3 @@ A very simple experiment of golang, following step by step https://www.youtube.c
 > ~/go/src/github.com/topheman/golang-first-try touch main.go
 > ~/go/src/github.com/topheman/golang-first-try code .
 ```
-
-## Step 2 - Simple program calling github APIs
