@@ -6,7 +6,17 @@ A simple example of inheritance in ES5/ES6 and GO (two languages that aren't rea
 To test:
 
 ```shell
-node inheritance-es5.js
-node inheritance-es6.js
-go run inheritance-go.go
+node inheritance/inheritance-es5.js
+node inheritance/inheritance-es6.js
+go run inheritance/inheritance-go.go
+```
+
+Should output:
+
+```
+Georges is eating dog food
+Georges barks!
+Jules is happy to eat!
+Jules barks!
+
 ```
